@@ -29,7 +29,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/lyteload-128x128-1.png",
     "noImageResize": "",
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -1060,13 +1060,33 @@
             "overlayOpacity": 0.5
           },
           "title": "Your safety is our top priority.",
-          "text": "If you don't feel safe, we aren't happy. <br>We strive to make delivery feel like its just your friend with a truck <br>doing that one favor.",
+          "text": "If you don't feel safe, we aren't happy. <br>We strive to make delivery feel like your friend is&nbsp;doing that one favor.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
           "_anchor": "header1-e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Our Driver Screening Process:",
+          "meta": "Because transparency, matters.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z"
         },
         {
           "_styles": {
@@ -1173,22 +1193,22 @@
               "color": "black"
             }
           },
-          "title1": "Background Check",
+          "title1": "1) Background Check",
           "subtitle1": "",
-          "caption1": "Anyonewho wants to signup with us needs to pass a background check before moving on to the next step. We immeditly decline applicants with any criminal history.",
-          "title2": "Review of Driving History",
+          "caption1": "Anyone who wants to signup needs to pass a background check before moving on to the next step. We immeditly decline applicants with any criminal history.",
+          "title2": "2) Review of Driving History",
           "subtitle2": "",
           "caption2": "Driving backround checks are done to make sure they have a clean record and can comfortably drive their larger vehicle even in the city.<br>",
-          "title3": "Mandatory Interview",
+          "title3": "3) Mandatory Interview",
           "subtitle3": "",
           "caption3": "We have created an onboarding program that consists of videos, guides, and a scenario-based exam that helps prepare drivers and helpers get the job done right.",
-          "title4": "Training &amp; Online Test",
+          "title4": "4)Training &amp; Online Test",
           "subtitle4": "",
           "caption4": "All applicants will be interviewed by one of our founders to determine if their past experience, customer service skills and personality are a fit for LyteLoad.",
-          "title5": "Insurance Review",
+          "title5": "5) Insurance Review",
           "subtitle5": "",
           "caption5": "We then confirm the driver has current vehicle records including insurance and state inspections. listed in their name",
-          "title6": "Ongoing Account Reviews",
+          "title6": "6) Regular Account Reviews",
           "subtitle6": "",
           "caption6": "We track customer reviews to ensure all of our drivers are up to LyteLoad's standards. If a driver receives less than 4 stars, they are reviewed by a member of our support team.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",

@@ -743,6 +743,10 @@ section.form .container {
 #menu-d .dropdown-item[aria-expanded="true"] {
   color: #71e9f2!important;
 }
+#header3-z .mbr-section-title,
+#header3-z .mbr-section-subtitle {
+  text-align: center;
+}
 #features4-s .card-subtitle {
   color: #bcbcbc;
 }
