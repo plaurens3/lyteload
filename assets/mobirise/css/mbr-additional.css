@@ -656,6 +656,15 @@ section.form .container {
 #menu-8 .dropdown-item[aria-expanded="true"] {
   color: #71e9f2!important;
 }
+#header1-b .mbr-section-lead {
+  font-size: 30px;
+}
+#header1-b .mbr-section-title {
+  font-size: 72px;
+}
+#form1-t .form-control-label {
+  color: #232323;
+}
 #contacts4-9 .mbr-contacts p {
   text-align: left;
   color: #ffffff;
@@ -721,6 +730,13 @@ section.form .container {
 #menu-d .link[aria-expanded="true"],
 #menu-d .dropdown-item[aria-expanded="true"] {
   color: #71e9f2!important;
+}
+#features4-s .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-s .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
 #contacts4-g .mbr-contacts p {
   text-align: left;
