@@ -590,6 +590,18 @@ section.form .container {
 #menu-p .dropdown-item[aria-expanded="true"] {
   color: #71e9f2!important;
 }
+#msg-box5-w B {
+  font-size: 22px;
+}
+#msg-box5-w I {
+  font-size: 20px;
+}
+#msg-box5-w P {
+  font-size: 20px;
+}
+#content1-y P {
+  font-size: 24px;
+}
 #contacts4-q .mbr-contacts p {
   text-align: left;
   color: #ffffff;
