@@ -827,6 +827,30 @@ section.form .container {
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #71e9f2!important;
 }
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#pricing-table2-1b .mbr-plan-header,
+#pricing-table2-1b .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-1b ul,
+#pricing-table2-1b .mbr-plan-title,
+#pricing-table2-1b .mbr-price-value,
+#pricing-table2-1b .mbr-price-figure,
+#pricing-table2-1b .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-1b .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-1b .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#form1-1i .form-control-label {
+  color: #232323;
+}
 #contacts4-k .mbr-contacts p {
   text-align: left;
   color: #ffffff;
