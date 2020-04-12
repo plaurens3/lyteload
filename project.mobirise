@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LyteLoad",
-    "currentPage": "signup.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -115,11 +115,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-white-214x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-grey-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -432,11 +432,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-white-214x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-grey-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -668,11 +668,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-white-214x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-grey-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1032,11 +1032,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-white-214x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-grey-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1376,11 +1376,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-white-214x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-grey-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1663,11 +1663,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-white-214x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-grey-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1950,11 +1950,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-white-214x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-grey-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2105,11 +2105,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pricing.html\">Our Pricing Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-white-214x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lyteload-truck-grey-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
