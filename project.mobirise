@@ -145,7 +145,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cool-furniture-store-in-jiyugaoka-j-period-2460869660-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cool-furniture-store-in-jiyugaoka-j-period-2460869660-2000x1341.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -289,10 +289,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Markets Served</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">How We Keep <br>Our Promise</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">LyteLoad for Businesses</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Our Pricing Model</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"locations.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Markets Served</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"safety.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">How we Screen Our Drivers</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"business.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">LyteLoad for Businesses</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"pricing.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Our Pricing Model</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
@@ -518,7 +518,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>After working in the hauling and delivery industry for over 4 years, it became clear to us that retail stores did not have a reliable delivery service for its customers. As a result, companies would have to deal with service providers that were neither financially nor emotionally invested in the quality of their own work, leading to late deliveries and damaged purchases.</p>",
+          "text": "<p>After working in the hauling and delivery industry for over 4 years, it became clear to us that retail stores did not have a reliable delivery service for its customers. As a result, customers would have to deal with delivery providers that were neither financially nor emotionally invested in the quality of their own work, leading to late deliveries and damaged purchases.</p>",
           "_tags": [
             "Theme"
           ],
