@@ -1021,6 +1021,20 @@ section.form .container {
 #menu-12 .dropdown-item[aria-expanded="true"] {
   color: #71e9f2!important;
 }
+#msg-box3-15 .mbr-section-title,
+#msg-box3-15 .lead {
+  color: #000;
+}
+#features4-17 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-17 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#form1-18 .form-control-label {
+  color: #232323;
+}
 #contacts4-13 .mbr-contacts p {
   text-align: left;
   color: #ffffff;
