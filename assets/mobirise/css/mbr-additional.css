@@ -910,6 +910,10 @@ section.form .container {
 #menu-10 .dropdown-item[aria-expanded="true"] {
   color: #71e9f2!important;
 }
+#header3-1r .mbr-section-title,
+#header3-1r .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts4-11 .mbr-contacts p {
   text-align: left;
   color: #ffffff;
