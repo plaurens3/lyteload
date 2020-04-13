@@ -1996,7 +1996,7 @@
           ],
           "title1": "Marketing Intern",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "<br><b>Responsibilities</b>\n<br>•\tCreate social media accounts and build their following\n<br>•\tDraft ad campaigns for Google, Facebook, etc.\n<br>•\tDraft marketing materials including print, and online advertisements\n<br>•\tSurvey and analyze cities for expansion\n<br>•\tPrepare slide decks for official communications\n<br>•\tEstablished connections with local businesses to gather data, form partnerships\n<br>•\tOffer new initiatives/ideas for the company to implement\n<br>•\tOther duties as assigned\n<br><br><b>Skills<br></b>•\tAble to work independently and as a team via teleconference, instant messaging\n<br>•\tEntrepreneurial attitude – does not need a boss to be productive\n<br>•\tStrong communication skills via video conferencing/email\n<br>•\tInterdisciplinary approach to problem solving\n<br><br><b>Requirements</b><br>•\t3.0+ GPA required\n<br>•\tEntrepreneurial/startup experience prioritized\n<br>•\tProductive with a flexible work from home schedule\n<br>•\tReliable and easily accessible internet connection\n<br><br><b>Benefits</b>\n<br>•\t100% work from home opportunity while under COVID-19 stay-at-home order in Pennsylvania\n<br>•\tPractical experience with the opportunity to grow your professional portfolio\n<br>•\tShadowing, mentoring, and training opportunities at a local startup\n<br>•\tOpportunity to participate in networking events and company meetings\n<br>•\tStipend-based compensation\n<br>\n<br>\n<br>",
           "title2": "Graphic Design Intern",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
@@ -2019,7 +2019,12 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
-          "_anchor": "features6-1t"
+          "_anchor": "features6-1t",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
