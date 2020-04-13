@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LyteLoad",
-    "currentPage": "careers.html",
+    "currentPage": "signup.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30,7 +30,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/lyteload-128x128-1.png",
     "noImageResize": "",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -319,7 +319,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"pricing.html\">Our Pricing Model</a></li></ul><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li>Careers</li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "peterlaurens3@gmail.com",
@@ -676,7 +676,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"pricing.html\">Our Pricing Model</a></li></ul><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li>Careers</li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "peterlaurens3@gmail.com",
@@ -1040,7 +1040,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"pricing.html\">Our Pricing Model</a></li></ul><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li>Careers</li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "peterlaurens3@gmail.com",
@@ -1384,7 +1384,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"pricing.html\">Our Pricing Model</a></li></ul><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li>Careers</li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "peterlaurens3@gmail.com",
@@ -1716,7 +1716,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"pricing.html\">Our Pricing Model</a></li></ul><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li>Careers</li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "peterlaurens3@gmail.com",
@@ -2041,7 +2041,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"pricing.html\">Our Pricing Model</a></li></ul><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li>Careers</li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "peterlaurens3@gmail.com",
@@ -2182,42 +2182,33 @@
           "_anchor": "menu-12"
         },
         {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
-            ".lead P": {
-              "font-size": "14px"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": true,
-            "paddingTop": "4",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/article-image-b46-700x475.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
           "title": "Supplement your income, on your terms.",
-          "text": "<p>Your time is valuable, so we make LyteLoad a side-hustle that is fair and transparent for our drivers. Done right, drivers and helpers should expect to earn $15-30/hour after expenses (Individual results may very).</p>",
+          "text": "Your time is valuable, so we make LyteLoad a side-hustle that is fair and transparent for our drivers. Done right, drivers and helpers can expect to earn $15-30/hour after expenses (Individual results may very).",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">How We Serve Our Drivers</a> ",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"signup.html#features4-17\" data-toolbar=\"-mbrBtnMove\">How We Serve Our Drivers</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-15"
+          "_name": "header1",
+          "_anchor": "header1-1u"
         },
         {
           "_styles": {
@@ -2424,7 +2415,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"pricing.html\">Our Pricing Model</a></li></ul><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li>Careers</li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "peterlaurens3@gmail.com",
