@@ -30,7 +30,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/lyteload-128x128-1.png",
     "noImageResize": "",
-    "uniqCompNum": 59,
+    "uniqCompNum": 61,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -1534,7 +1534,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/laineys-2000x1502.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -1542,7 +1542,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
@@ -1594,19 +1594,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1l"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1650,7 +1637,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>&nbsp; &nbsp; <b>1. Retail partnerships stregnthen our community by increasing demand in local businesses&nbsp;</b></blockquote><blockquote><b>&nbsp; &nbsp; 2. A thouroughly screened and trained delivery fleet is crucial in improving the customer experience</b></blockquote><blockquote><p><b>&nbsp; &nbsp; 3. Flexible plans enable LyteLoad to seamlesssly integrate into your business, we're here to support you not </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>change you</b></p></blockquote>",
+          "text": "<blockquote><p><b>1. Retail partnerships stregnthen our community by increasing demand in local businesses&nbsp;</b></p><p><b><br></b><b style=\"font-size: 1.09rem;\">2. A thouroughly screened and trained delivery fleet is crucial in improving the customer experience</b></p><p><b style=\"font-size: 1.09rem;\"><br></b><b style=\"font-size: 1.07rem;\">3. Flexible plans enable LyteLoad to seamlesssly integrate into your business - we're here to support you not&nbsp;</b><b style=\"font-size: 1.07rem;\">change you</b></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1673,8 +1660,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "Get Started Today",
+          "subtitle": "Think LyteLoad would work for your business? <br>Complete the form below and a team member will reach out to you as soon as possible.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "peterlaurens3@gmail.com",
