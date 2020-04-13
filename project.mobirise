@@ -10,7 +10,7 @@
         "secondaryColor": "#2969b0",
         "successColor": "#ffffff",
         "infoColor": "#000000",
-        "warningColor": "#71e9f2",
+        "warningColor": "#fac51c",
         "dangerColor": "#28324e",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -164,7 +164,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Retail delivery, reimagined.",
-          "text": "<br>The rise of e-commerce and 2-day delivery has diminished the true value of the brick-and-mortar shopping experience.<br>It's time for retailers to rethink their last-mile delivery solutions.",
+          "text": "<br>The rise of e-commerce and 2-day delivery has diminished the true value of the brick-and-mortar shopping experience.<br>It's time for retailers to rethink their <a href=\"https://www.businessinsider.com/last-mile-delivery-shipping-explained\" class=\"text-primary\"><b>last-mile delivery</b></a> solutions.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
