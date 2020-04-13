@@ -30,7 +30,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/lyteload-128x128-1.png",
     "noImageResize": "",
-    "uniqCompNum": 58,
+    "uniqCompNum": 59,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -1629,10 +1629,10 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>In the crowded tech space, we understand that there are alternatives to LyteLoad's platform, however we pride ourselves on three key aspects of our business:</p><p>&nbsp; &nbsp; </p><p>&nbsp;&nbsp;&nbsp;&nbsp;1. Retail partnerships stregnthen our community by increasing demand in local businesses&nbsp;</p><p>&nbsp; &nbsp; 2. A thouroughly screened and trained delivery fleet is crucial in improving the customer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;experience</p><p>&nbsp; &nbsp; 3.&nbsp;<br></p>",
+          "text": "<p>In the crowded tech space, we understand that there are alternatives to LyteLoad's platform, however we pride ourselves on three key aspects of our business:</p>",
           "_tags": [
             "Theme"
           ],
@@ -1643,6 +1643,19 @@
               "font-size": "24px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>&nbsp; &nbsp; <b>1. Retail partnerships stregnthen our community by increasing demand in local businesses&nbsp;</b></blockquote><blockquote><b>&nbsp; &nbsp; 2. A thouroughly screened and trained delivery fleet is crucial in improving the customer experience</b></blockquote><blockquote><p><b>&nbsp; &nbsp; 3. Flexible plans enable LyteLoad to seamlesssly integrate into your business, we're here to support you not </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>change you</b></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1m"
         },
         {
           "_params": {
