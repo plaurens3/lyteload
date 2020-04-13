@@ -831,22 +831,15 @@ section.form .container {
 #header3-1e .mbr-section-subtitle {
   text-align: center;
 }
-#pricing-table2-1b .mbr-plan-header,
-#pricing-table2-1b .mbr-plan-body {
-  background-color: #f4f4f4;
+#content1-1f P {
+  font-size: 24px;
 }
-#pricing-table2-1b ul,
-#pricing-table2-1b .mbr-plan-title,
-#pricing-table2-1b .mbr-price-value,
-#pricing-table2-1b .mbr-price-figure,
-#pricing-table2-1b .mbr-price-term {
-  color: #28262b;
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
+  text-align: center;
 }
-#pricing-table2-1b .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-1b .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
+#content1-1k P {
+  font-size: 24px;
 }
 #form1-1i .form-control-label {
   color: #232323;
