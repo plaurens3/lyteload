@@ -988,9 +988,9 @@
           "subtitle": "<br>Have a need for us? Let us know where we should load up next!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit Suggestion</a>",
           "form": {
-            "action": "peterlaurens3@gmail.com",
+            "action": "peter@lyteload.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for letting us know"
             },
             "fields": {
               "name": {
@@ -1004,7 +1004,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
@@ -1043,9 +1043,9 @@
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li>Careers</li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
-            "action": "peterlaurens3@gmail.com",
+            "action": "peter@lyteload.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "We'll get back to you soon."
             },
             "fields": {
               "name": {
@@ -1662,11 +1662,11 @@
           },
           "title": "Get Started Today",
           "subtitle": "Think LyteLoad would work for your business? <br>Complete the form below and a team member will reach out to you as soon as possible.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "peterlaurens3@gmail.com",
+            "action": "peter@lyteload.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for reaching out to us, we'll get back to you in the next few days regarding a potential partnership!"
             },
             "fields": {
               "name": {
@@ -2363,9 +2363,9 @@
           "subtitle": "Please fill out the contact form below and one of our team members will reach out to you with the next steps!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "peterlaurens3@gmail.com",
+            "action": "peter@lyteload.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for reaching out, we'll get back to you soon about the application process!"
             },
             "fields": {
               "name": {
