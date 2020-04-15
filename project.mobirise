@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LyteLoad",
-    "currentPage": "aboutus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -115,7 +115,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -282,10 +282,10 @@
           "caption1": "LyteLoad offers 30 minute delivery windows starting 30 minutes after you place a request on our website or mobile app. No more waiting at home having to guess when your item will be delivered!<br><br>",
           "title2": "Safety is Our #1 Priority<br>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "LyteLoad employs a 6-step screening and onboarding proccess for all of our drivers and helpers. LyteID digital credentials are shown to ensure customers are handing their purchase to a certified LyteLoad driver.",
+          "caption2": "LyteLoad employs a 6-step screening and onboarding process for all of our drivers and helpers. LyteID digital credentials are shown to ensure the end customer is handing their purchase to a certified LyteLoad driver.",
           "title3": "Improve Customer Conversion",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "LyteLoad's platform enables businesses to better serve their customers needs. Affordable,             on-demand delivery gives customers a more convincing alternative than window shopping and buying the product online.",
+          "caption3": "LyteLoad's platform enables businesses to better serve their customers' needs. Affordable,             on-demand delivery gives customers a more convincing alternative than window shopping and buying the product online.",
           "title4": "Fair &amp; Final Pricing",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "LyteLoad's pricing algorithim weeds out the moral hazard of hourly pay to ensure customers are paying a fair price to get their job done before you pay. You get to see how much the driver and loader make, plus they keep 100% of tips!&nbsp;<br>",
@@ -318,7 +318,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independent contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"careers.html\">Careers</a></li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -432,7 +432,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -503,7 +503,7 @@
             }
           },
           "title": "About Us",
-          "text": "No more renting U-Hauls and scratching up the floors.<br>No more waiting at home all-day for the delivery guys.<br><i>The brick-and-mortar shopping experience is ready for its reboot.<br></i><b>LyteLoad is the solution.</b>",
+          "text": "No more renting U-Hauls and scratching up the floors.<br>No more waiting at home all day for the delivery guys.<br><i>The brick-and-mortar shopping experience is ready for its reboot.<br></i><b>LyteLoad is the solution.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -642,7 +642,7 @@
           "caption1": "Jake always wanted to own his own buisness and while in college he had an idea with his roomate. Since he was always getting calls to help his friends move, he decided to start a hauling business to deliver furniture along East Coast with just a pickup truck and trailer. After a years of hauling, he found the travel to be unsustainable so he wanted to find a way to evolve the business. In 2019, he met Peter and they collaborated to solve the inefficiences of the local delivery industry.",
           "title2": "Peter Laurens",
           "subtitle2": "Co-founder",
-          "caption2": "After starting his own sneaker business in 2014, Peter became passionate about entrepreneuriship and side hustles. He joined together with Jake in 2019 to put a spin on his moving and hauling business, one that would change the way people shop and create &nbsp;jobs for people that want a better paying side hustle.&nbsp;Peter is a &nbsp;2019 Temple University alumnus with a degree in Finance and Management Information Systems.",
+          "caption2": "After starting his own sneaker business in 2014, Peter became passionate about entrepreneurship and side hustles. He joined together with Jake in 2019 to put a spin on his moving and hauling business, one that would change the way people shop and create &nbsp;jobs for people that want a better paying side hustle.&nbsp;Peter is a &nbsp;2019 Temple University alumnus with a degree in Finance and Management Information Systems.",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -681,7 +681,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independent contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"careers.html\">Careers</a></li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -795,7 +795,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -991,7 +991,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Where could you use LyteLoad?",
-          "subtitle": "<br>Have a need for us? Let us know where we should load up next!",
+          "subtitle": "<br>Have a need for us in your community? Let us know where we should load up next!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit Suggestion</a>",
           "form": {
             "action": "peter@lyteload.com",
@@ -1045,7 +1045,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independent contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"careers.html\">Careers</a></li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -1159,7 +1159,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1233,7 +1233,7 @@
             "bgColor": "#fff"
           },
           "title": "Our Driver Screening Process:",
-          "meta": "Because transparency, matters.",
+          "meta": "Because transparency matters.",
           "_tags": [
             "Theme"
           ],
@@ -1253,7 +1253,7 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
             "iconsBgColor": "#f2f2f2",
@@ -1347,7 +1347,7 @@
           },
           "title1": "1) Background Check",
           "subtitle1": "",
-          "caption1": "Anyone who wants to signup needs to pass a background check before moving on to the next step. We immeditly decline applicants with any criminal history.",
+          "caption1": "Anyone who wants to signup needs to pass a background check before moving on to the next step. We immediately decline applicants with any criminal history.",
           "title2": "2) Review of Driving History",
           "subtitle2": "",
           "caption2": "Driving backround checks are done to make sure they have a clean record and can comfortably drive their larger vehicle even in the city.<br>",
@@ -1359,7 +1359,7 @@
           "caption4": "All applicants will be interviewed by one of our founders to determine if their past experience, customer service skills and personality are a fit for LyteLoad.",
           "title5": "5) Insurance Review",
           "subtitle5": "",
-          "caption5": "We then confirm the driver has current vehicle records including insurance and state inspections. listed in their name",
+          "caption5": "We then confirm the driver has current vehicle records including insurance and state inspections are listed in their name.",
           "title6": "6) Regular Account Reviews",
           "subtitle6": "",
           "caption6": "We track customer reviews to ensure all of our drivers are up to LyteLoad's standards. If a driver receives less than 4 stars, they are reviewed by a member of our support team.",
@@ -1389,7 +1389,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independent contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"careers.html\">Careers</a></li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -1503,7 +1503,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1553,7 +1553,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<p>LyteLoad for your business.</p>",
-          "text": "<br>LyteLoad is a flexible delivery service solution for retailers with oversized items such as furniture, fish tanks, and outdoor equiptment. We offer various partnership agreements that can be tailored to suit your business's needs for providing<br> delivery, installation, and returns.",
+          "text": "<br>LyteLoad is a flexible delivery service solution for retailers with oversized items such as furniture, fish tanks, and outdoor equipment. We offer various partnership agreements that can be tailored to suit your business's needs for providing<br> delivery, installation, and returns.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -1587,7 +1587,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>The sharing economy is unlocking previously untapped capacity, but the retail industry has yet to adapt. Gig Economy platforms are being increasingly accepted by full-time and part-time employees, with <a href=\"https://www.forbes.com/sites/tjmccue/2018/08/31/57-million-u-s-workers-are-part-of-the-gig-economy/#3bf6ef367118\"><b>over 36% of Americans</b></a>&nbsp;taking up a side-hustle. One underserved group of side hustlers is the pickup truck owners. Unable to sign up for ridesharing apps or find realiable work on their own, we believe a retail delivery platform will be able to target this demographic to collaborate with local businesses.</p>",
+          "text": "<p>The Sharing Economy is unlocking previously untapped capacity, but the retail industry has yet to adapt. Gig economy platforms are being increasingly accepted by full-time and part-time employees, with <a href=\"https://www.forbes.com/sites/tjmccue/2018/08/31/57-million-u-s-workers-are-part-of-the-gig-economy/#3bf6ef367118\"><b>over 36% of Americans</b></a>&nbsp;taking up a side hustle. One underserved group of side hustlers is the pickup truck owners. Unable to sign up for ridesharing apps or find reliable work on their own, we believe a retail delivery platform will be able to target this demographic to collaborate with local businesses.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1606,7 +1606,7 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
@@ -1643,7 +1643,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>1. Retail partnerships stregnthen our community by increasing demand in local businesses&nbsp;</b></p><p><b><br></b><b style=\"font-size: 1.09rem;\">2. A thouroughly screened and trained delivery fleet is crucial in improving the customer experience</b></p><p><b style=\"font-size: 1.09rem;\"><br></b><b style=\"font-size: 1.07rem;\">3. Flexible plans enable LyteLoad to seamlesssly integrate into your business - we're here to support you not&nbsp;</b><b style=\"font-size: 1.07rem;\">change you</b></p></blockquote>",
+          "text": "<blockquote><p><b>1. Retail partnerships stregnthen our community by increasing demand in local businesses&nbsp;</b></p><p><b><br></b><b style=\"font-size: 1.09rem;\">2. A thoroughly screened and trained delivery fleet is crucial in improving the customer experience</b></p><p><b style=\"font-size: 1.09rem;\"><br></b><b style=\"font-size: 1.07rem;\">3. Flexible plans enable LyteLoad to seamlesssly integrate into your business - we're here to support you, not&nbsp;</b><b style=\"font-size: 1.07rem;\">change you</b></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1721,7 +1721,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independent contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"careers.html\">Careers</a></li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -1835,7 +1835,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2046,7 +2046,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independent contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"careers.html\">Careers</a></li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -2160,7 +2160,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"false\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\">About Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"locations.html\" aria-expanded=\"true\">The LyteLoad Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locations.html\">Markets Served</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"safety.html\">Safety</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"signup.html\">Sign-up to Deliver</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">LyteLoad for Businesses<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">Careers</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2229,7 +2229,7 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
             "iconsBgColor": "#f2f2f2",
@@ -2327,7 +2327,7 @@
           "caption2": "Although we target major cities, we serve surrounding communities as well. If you only want to work close, you can recruit local businesses to feed you jobs!",
           "title3": "Get Paid in 48 Hours",
           "subtitle3": "",
-          "caption3": "We strive to get you paid as soon as possible. With your verified PayPal account on file, we will release proceeds from your work to you within 48 hours.",
+          "caption3": "We strive to get you paid as soon as possible. With your verified PayPal account on file, we will release proceeds from your work to you within 48 hours after completing <br>the job.",
           "title4": "Refferal Program",
           "subtitle4": "",
           "caption4": "If you want to get more work in your area or work with a friend, we have a referral program that pays you a cash bonus for doing so. We reward you for helpng grow LyteLoad's platform.",
@@ -2420,7 +2420,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independant contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>About Us</b></span></font><br>LyteLoad is a tech startup from Lansdale, PA<br>that aims to revitalize the brick-and-mortar<br>shopping experience. By offering a platform<br>for local, independent contractors to connect <br>with retail stores and their customers, LyteLoad will safely organize last-mile delivery solutions at an affordable and transparent price.<br><br>Lansdale, PA 19446<br><a href=\"mailto:Support@lyteload.com\">Support@lyteload.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"aboutus.html\">About LyteLoad</a></li><li><a href=\"locations.html\">Markets Served</a></li><li><a href=\"safety.html\">Safety</a></li><li><a href=\"business.html\">LyteLoad for Businesses</a></li><li><a href=\"careers.html\">Careers</a></li></ul><p><br></p>",
           "form": {
             "title": "MESSAGE",
