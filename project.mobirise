@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LyteLoad",
-    "currentPage": "index.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -484,7 +484,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lyteload-800x800.png",
+              "src": "@PROJECT_PATH@/assets/images/img-769-1400x508.jpg",
               "link": "",
               "alt": "",
               "title": ""
